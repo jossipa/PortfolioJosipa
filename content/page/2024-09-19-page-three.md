@@ -1,0 +1,36 @@
+---
+layout: default
+title: About me
+date: 2024-09-19T13:38:30.130Z
+thumbnail: /img/aboutme.jpg
+included: true
+numbernavigation: 100
+promoted: "0"
+---
+::div{.pt-5}
+::
+
+>I am Josipa Celanovic, 2BA Media & information design student at LUCA school of arts.
+<!--more-->
+I grew up and studied in Montenegro. I graduated from _Petar Lubarda_ highschool with a degree in graphic design.
+In November 2022 I moved to Belgium with the goal of doing a Bachelors degree.
+I work for a small NGO from Montenegro and in my free time I like to discover new techniques and find out how to incorporate them into my designs. 
+
+::div{.pt-5}
+::
+<br>
+
+<!-- ![My Visualisation](/img/avatar.png) -->
+<img src="img/avatar_t.png" alt="My Image" width="600"/>
+::div{.pt-5}
+::
+<br>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+</style>
