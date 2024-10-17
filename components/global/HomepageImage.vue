@@ -51,7 +51,7 @@ onMounted(async () => {
                       </svg>
                     </div>
                     <div class="flex-col">
-                    <span class="text-xs opacity-80">This dataset is based on a Bureaupixel Github repository with a MIT License. Feel free to download and install it on your local machine.</span>
+                    <span class="text-xs opacity-80"></span>
                     </div>
                   </NuxtLink>
             </div>
