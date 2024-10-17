@@ -24,6 +24,9 @@
   font-family: "Sixtyfour Convergence", sans-serif;
 }
 
+li {
+  line-height: 45px;
+}
 /* ALLE TITELS */
 
 .montserrat-bold {
