@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Typography
+title: Datavisualisatie
 date: 2024-09-19T13:38:30.130Z
 imagegallery:
-  showgallery: true
+  showgallery: false
   carouselgrid: carousel
   galleryImages:
     - /img/typo_brown.png
@@ -26,28 +26,17 @@ For this assignment we had to shape a quote into a poster and animation. I got a
 
 <br>
 
-**- Posters -**
+**- Time -**
 
-![tipografie affisches](/img/savillee.png)
-
-<br>
-
-**- Animation -**
-<br>
-
-On this link you can the animated quote I made for an Instagram post:
-<br>
-
-[**_https://youtube.com/shorts/-2mSnH-Z8jc?feature=share_**]{style="color: #65a30d;"}
+![tipografie affisches](/img/datavis-t.png) 
 
 <br>
 
-**- Presentation slides -**
+**- Location -**
 
-![typografie slides](/img/typo_sblue.png)
+![typografie slides](/img/datavis-l.png)
 <br>
 
-![typografie slides](/img/typo_sbrown.png)
-<br>
+**- Presentation -**
 
-**- Book spreads -**
+![typografie slides](/img/datavis-p.png)

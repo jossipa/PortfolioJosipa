@@ -12,11 +12,11 @@
             <PageNavigation />
         </div>
       </div>
-      <!-- <div v-if="navigations.submenu.blognavigation_on_off">
+      <div v-if="navigations.submenu.blognavigation_on_off">
         <div class="animate-fade animate-once animate-delay-[150ms]">
             <BlogNavigation />
         </div>
-      </div> -->
+      </div>
     </div>
 </template>    
 

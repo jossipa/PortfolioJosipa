@@ -17,7 +17,7 @@
   size="45%"
 >
   <!-- Drawer content goes here -->
-    <div class="">
+    <div class="px-3">
       <Titleblock />
       <Navigations />
       <UtilNav />
