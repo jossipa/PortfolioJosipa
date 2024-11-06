@@ -3,7 +3,7 @@
       <div
       class="text-xl font-bold">
       {{ settings.site_title }}</div>
-      <div class="text-sm opacity-80">
+      <div class="text-sm text-center opacity-80">
       {{ settings.site_subtitle }}
       </div>
     </div>
