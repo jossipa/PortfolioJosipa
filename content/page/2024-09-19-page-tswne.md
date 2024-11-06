@@ -19,12 +19,16 @@ promoted: "0"
 
 ---
 
-For this assignment we needed to look closer at our surroundings, more specifically architectural elements and photograph interesting relations between their colors. Next step was to choose 10 photos and paint color swatches for each of the photos. Once we had the material done it was time to analyse the proportions between the colors and make an index with them, which we later channelled into a chosen medium. I chose to physicalize it in the form of wooden pie charts.
-
 <br>
 
 ![Pie charts](/img/tswne4.jpg)
 <br>
+
+---
+
+For this assignment we needed to look closer at our surroundings, more specifically architectural elements and photograph interesting relations between their colors. Next step was to choose 10 photos and paint color swatches for each of the photos. Once we had the material done it was time to analyse the proportions between the colors and make an index with them, which we later channelled into a chosen medium. I chose to physicalize it in the form of wooden pie charts.
+
+---
 
 ![Pie charts](/img/tswne22.jpg)
 <br>

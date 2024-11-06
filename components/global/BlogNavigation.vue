@@ -36,11 +36,11 @@ function formatDate(date) {
   <div>
     <div v-for="(files, folder) in groupedBlogFiles" :key="folder" >
       <ul>
-        <li v-for="(file, index) in files" :key="index" class="pb-3">
+        <li v-for="(file, index) in files" :key="index" class="pb-3 leading-4">
           <a :href="file._path">{{ file.title || file._path }}
-          <p v-if="file.date" class="text-xs opacity-50 hover:opacity-100">last updated on: {{ formatDate(file.date) }}
+          <!-- <p v-if="file.date" class="text-xs opacity-50 hover:opacity-100">last updated on: {{ formatDate(file.date) }}
             <span v-if="file.author" class="text-xs">authored by: {{ file.author }} </span>
-          </p>
+          </p> -->
         </a>
         </li>
       </ul>
