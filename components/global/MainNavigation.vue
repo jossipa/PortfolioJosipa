@@ -9,6 +9,7 @@
       </NuxtLink>
     </ul>
     <hr>
+    <NuxtLink to="about">About</NuxtLink>
   </div>
   </template>
   

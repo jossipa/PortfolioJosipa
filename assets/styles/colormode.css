@@ -1,7 +1,12 @@
 /* Body element */
 body {
-    background-color: #fff;
-    color: rgba(0,0,0,0.8);
+    background-image: url("img/pattern2.jpg");
+    background-color: #cccccc;
+    background-attachment: fixed;
+    background-size: cover; /* Ensures the image covers the entire screen */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    position: relative; /* Keep this relative to prevent overlap issues */
+
     }
     .light-mode body {
     background-color: #d9e6ff;

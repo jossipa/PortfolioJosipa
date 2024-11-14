@@ -39,11 +39,11 @@ onMounted(async () => {
       <!-- Info section that triggers the hover effect -->
       <div class="info flex flex-col items-center justify-center h-screen">
         <div class="container text-left p-1 lg:p-20">
-          <div class="container rounded-full opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-white dark:bg-black bg-opacity-80 dark:bg-opacity-80">
+          <div class="container animate-fade-down rounded-full opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-white dark:bg-black bg-opacity-80 dark:bg-opacity-80">
             <div class="text-xl font-bold text-center">{{ settings.homepage_title }}</div>
             <div class="text-m opacity-80 text-center">{{ settings.body }}</div>
 
-            <div class="flex mt-0">
+            <div class="flex justify-center mt-0">
                 <NuxtLink to="https://github.com/bureaupixel/" target="_blank">
                     <div class="flex-col hidden">
                       <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256">
