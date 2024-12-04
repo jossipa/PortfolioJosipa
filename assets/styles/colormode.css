@@ -1,6 +1,6 @@
 /* Body element */
 body {
-    background-image: url("img/pattern2.jpg");
+    /*background-image: url("img/pattern2.jpg");*/
     background-color: #cccccc;
     background-attachment: fixed;
     background-size: cover; /* Ensures the image covers the entire screen */
